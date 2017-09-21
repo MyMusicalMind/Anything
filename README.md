@@ -17,3 +17,11 @@ Ferramentas: Photoshop PS5, Illustrator AI5, GUitar Pro 6, FLSTUDIO 12, Guitar R
 <br><br>
 
 <img src="https://image.ibb.co/dg1V15/Cover_official_album.jpg" width="300" height="300">
+<br>
+Faixas: <br>
+<p>1. Samael</p>
+<p>2. What Do You Killed Me</p>
+<p>3. Genesis</p>
+<p>4. How do you Feel</p>
+<p>5. The Young Wise of Alexandria</p>
+<p>6. When you falling down</p>
