@@ -10,15 +10,14 @@ Nos arquivos incluem as partituras e o makingoff da arte.<br>
 <hr>
 <p>Estilo: Ghotic Metal</p>
 <p>Compositor: Lameck Fernandes</p>
-<br>
 
 <hr>
 Ferramentas: Photoshop PS5, Illustrator AI5, GUitar Pro 6, FLSTUDIO 12, Guitar Rig Pro 5
 <br><br>
 
 <img src="https://image.ibb.co/dg1V15/Cover_official_album.jpg" width="300" height="300">
-<br>
-Faixas: <br>
+<br><br>
+<p>Faixas: </p>
 <p>1. Samael</p>
 <p>2. What Do You Killed Me</p>
 <p>3. Genesis</p>
