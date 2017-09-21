@@ -1,0 +1,48 @@
+ZOOM 505
+
+SAMAEL -----------------------------------
+
+BEAT:
+ORIGINAL: 74
+MUDADO:76
+
+GUITAR BASE: OF DF 26 9 10 C1 H9 22 [CAP. 2]
+GUITARRA SOLO: OF BL 30 A1 21 F6 D8 22 [CAP. PONTE]
+
+------------------------------------------
+
+GENESIS ----------------------------------
+
+BEAT ORIGINAL: 87
+TIMBRE CAP. BRAÇO - NAS BASES
+TIMBRE CAP. PONTE - NA PONTE
+
+GUITAR BASE: OF DF 26 9 10 C1 H9 22
+
+------------------------------------------
+
+HOW DO YOU FEEL --------------------------
+
+BEAT ORIGINAL: 74
+TIMBRE CAP. PONTE
+
+GUITAR BASE: of ry 9 40 f9 d8 27
+
+------------------------------------------
+
+THE YOUNG WISE OF ALEXANDRIA --------------
+
+BEAT: 
+ORIGINAL: 72
+MUDADO: 64
+
+GUITAR CLEAN: of ry 119 36 f7 d8 27 [CAP.PONTE]
+GUITAR BASE: of 23 9 12 c1 h9 20 [CAP. BRAÇO]
+
+
+------------------------------------------
+
+
+
+
+ 
