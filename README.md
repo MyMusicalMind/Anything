@@ -18,9 +18,9 @@ Ferramentas: Photoshop PS5, Illustrator AI5, GUitar Pro 6, FLSTUDIO 12, Guitar R
 <img src="https://image.ibb.co/dg1V15/Cover_official_album.jpg" width="300" height="300">
 <br><br>
 <p>Faixas: </p>
-<p>1. Samael</p>
-<p>2. What Do You Killed Me</p>
-<p>3. Genesis</p>
-<p>4. How do you Feel</p>
-<p>5. The Young Wise of Alexandria</p>
-<p>6. When you falling down</p>
+<p>1. Samael | <a href="https://www.youtube.com/watch?v=xqDIe7lG4ck&index=17&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>2. What Do You Killed Me | <a href="https://www.youtube.com/watch?v=OZmfuiE8sdk&index=13&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>3. Genesis | <a href="https://www.youtube.com/watch?v=JZcBqZ6s1O0&index=15&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>4. How do you Feel | <a href="https://www.youtube.com/watch?v=429d8Bgqd3c&index=16&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>5. The Young Wise of Alexandria | <a href="https://www.youtube.com/watch?v=56WH17aPuMY&index=14&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>6. When you falling down | <a href="https://www.youtube.com/watch?v=H3vzyAbXVjI&index=12&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
